@@ -1,0 +1,12 @@
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\bin\Debug\ViewColor.exe.config
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\bin\Debug\ViewColor.exe
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\bin\Debug\ViewColor.pdb
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\bin\Debug\ViewColor.xml
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\obj\Debug\ViewColor.vbprojResolveAssemblyReference.cache
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\obj\Debug\ViewColor.Form1.resources
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\obj\Debug\ViewColor.Resources.resources
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\obj\Debug\ViewColor.vbproj.GenerateResource.Cache
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\obj\Debug\ViewColor.vbproj.CoreCompileInputs.cache
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\obj\Debug\ViewColor.exe
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\obj\Debug\ViewColor.xml
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\obj\Debug\ViewColor.pdb

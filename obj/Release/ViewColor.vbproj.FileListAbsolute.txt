@@ -1,0 +1,11 @@
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\bin\Release\ViewColor.exe.config
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\bin\Release\ViewColor.exe
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\bin\Release\ViewColor.pdb
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\bin\Release\ViewColor.xml
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\obj\Release\ViewColor.Form1.resources
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\obj\Release\ViewColor.Resources.resources
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\obj\Release\ViewColor.vbproj.GenerateResource.Cache
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\obj\Release\ViewColor.vbproj.CoreCompileInputs.cache
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\obj\Release\ViewColor.exe
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\obj\Release\ViewColor.xml
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\obj\Release\ViewColor.pdb
