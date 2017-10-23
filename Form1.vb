@@ -9,12 +9,12 @@ Public Class Form1
 
     Private Sub Connect_Click(sender As Object, e As EventArgs) Handles Connect.Click
         If Connect.Text = "Connect" Then
-            UpdateColorTimer.Enabled = True
             APIAuth.Enabled = False
             AppId.Enabled = False
             Connect.Text = "Disconnect"
             Connect.BackColor = Color.Red
             Status.Text = "wait data"
+            UpdateColorTimer_Tick(sender, e)
         Else
             UpdateColorTimer.Enabled = False
             APIAuth.Enabled = True
@@ -63,6 +63,8 @@ Public Class Form1
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        TopMost = True
+
         ' APIAuth.Text = "p1xDit4PaF2Xtsn:ehvPbFM43NuxgNsHO4Z6UBvMU"
         ' AppId.Text = "IOXEyedropper"
 

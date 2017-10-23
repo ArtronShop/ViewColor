@@ -9,3 +9,4 @@ C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\obj\Release\ViewColor.vbpr
 C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\obj\Release\ViewColor.exe
 C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\obj\Release\ViewColor.xml
 C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\obj\Release\ViewColor.pdb
+C:\Users\Max\Dropbox\Visual Basic\ViewColor\ViewColor\obj\Release\ViewColor.vbprojResolveAssemblyReference.cache
